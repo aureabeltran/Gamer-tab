@@ -1,0 +1,39 @@
+*{
+	font-family: Roboto Condensed;
+}
+img{
+	max-width:100%;
+	z-index: 20 !important;
+}
+h1{
+	font-family: Oswald;
+}
+h4{
+	font-weight: bold;
+	font-family: Oswald;
+}
+.background{
+	background-image: url(game-background-papel-wallpaper-under-fire-city-126720.jpg);
+	background-size: cover;
+	width: 100%;
+}
+.cd-top{
+	background: red rgba(24, 188, 142, 0.8);
+	background-color: red;
+}
+.cd-top:hover{
+	background-color: #AF2222;
+}
+a{
+	color:#F53030;
+}
+nav a:hover{
+	background-color: #AF2222;
+	color:white;
+}
+.white{
+	padding: 5%;
+}
+.white .material-icons{
+	font-size: 70px;
+}
